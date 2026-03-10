@@ -1,1 +1,3 @@
 artifacts/*.joblib
+.DS_Store
+artifacts/.DS_Store
